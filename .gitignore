@@ -1,1 +1,3 @@
 notesforTroy.py
+*.pyc
+.DS_Store
