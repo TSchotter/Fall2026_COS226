@@ -86,6 +86,18 @@ def main():
     newBST.add(newBST.head, 100)
     visualizer.add_to_stack(newBST)
 
+    newBST.add(newBST.head, 6)
+    visualizer.add_to_stack(newBST)
+    newBST.add(newBST.head, 70)
+    visualizer.add_to_stack(newBST)
+    newBST.add(newBST.head, 18)
+    visualizer.add_to_stack(newBST)
+    newBST.add(newBST.head, 2)
+    visualizer.add_to_stack(newBST)
+    newBST.add(newBST.head, 120)
+    visualizer.add_to_stack(newBST)
+
+
     newBST.remove(newBST.head, 5)
     visualizer.add_to_stack(newBST)
     
