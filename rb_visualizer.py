@@ -26,9 +26,6 @@ class BinaryTree:
 
     def remove(self, data):
         pass
-
-    def search(self, data):
-        pass
     
     def copy_tree(self):
         new_tree = BinaryTree()
